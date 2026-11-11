@@ -4,8 +4,8 @@
 
 ```mermaid
 flowchart TB
-  albert["Albert Skipper"]
-  ira["Ira Skipper"]
+  albert[Albert]
+  ira[Ira]
   albert --- ira
 
   tui[Tui]
@@ -17,20 +17,20 @@ flowchart TB
   ira --- una
   ira --- ted
 
-  marie["Marie Skipper"]
-  ray["Ray Skipper"]
-  greg["Greg Skipper"]
+  marie[Marie]
+  ray[Ray]
+  greg[Greg]
   montrose[Montrose]
   ira --> marie
   ira --> ray
   ira --> greg
   montrose --> greg
 
-  sharron["Sharron Skipper"]
+  sharron[Sharron]
   greg --- sharron
 
-  neha["Neha Skipper"]
-  karu["Nga Karu O Te Rangi Skipper"]
+  neha[Neha]
+  karu["Nga Karu O Te Rangi"]
   greg --> neha
   sharron --> neha
   greg --> karu

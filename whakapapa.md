@@ -8,7 +8,7 @@ Ingested 11 November 2026. Three kinds of statement are kept apart:
 
 ## Albert and Ira
 
-Albert Skipper, also Mammy, died about February 2010. On 24 March 2010 Rangi Kipa wrote, on [a blog](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) addressed to the descendants of Neha and Ngārere Kipa, that talk had turned to "Uncle Albert Skippers' tangi in February at Katere Ki Te Moana/Tarereare".
+Albert Skipper, also Mammy, died February 2010. On 24 March 2010 Rangi Kipa wrote, on [a blog](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) addressed to the descendants of Neha and Ngārere Kipa, that talk had turned to "Uncle Albert Skippers' tangi in February at Katere Ki Te Moana/Tarereare".
 
 Ira Skipper, also Paddy, was his wife. She died at Riverside Lifecare on 4 September 2020. [Her notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) names children Marie, Ray, and Greg, and siblings Tui, Jack, Una, and Ted. It does not name her parents or a maiden name. No birth line for her has been found past those siblings.
 
@@ -112,13 +112,13 @@ The [Barrett page](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/) add
 
 Spellings in use for the same places:
 
-| Form                                   | Where it appears                                              |
-| -------------------------------------- | ------------------------------------------------------------- |
+| Form                                   | Where it appears                                                                                                                                               |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Waiwakaiho                             | The conversation, the [Barrett page](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/), and [Bigham](http://hdl.handle.net/10179/15861), for the river |
-| Waiwhakaiho                            | [Te Ātiawa pages](https://teatiawa.iwi.nz/hapu-and-marae/), for the suburb and the marae address         |
-| Katere ki te Moana, Kātere ki te Moana | Marae name                                                    |
-| Tarereare                              | [Rangi's 2010 post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html): "Katere Ki Te Moana/Tarereare"             |
-| Tārereari                              | [Bigham](http://hdl.handle.net/10179/15861): the papakāinga at Kātere                              |
+| Waiwhakaiho                            | [Te Ātiawa pages](https://teatiawa.iwi.nz/hapu-and-marae/), for the suburb and the marae address                                                               |
+| Katere ki te Moana, Kātere ki te Moana | Marae name                                                                                                                                                     |
+| Tarereare                              | [Rangi's 2010 post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html): "Katere Ki Te Moana/Tarereare"            |
+| Tārereari                              | [Bigham](http://hdl.handle.net/10179/15861): the papakāinga at Kātere                                                                                          |
 
 ## What the chat overstated
 

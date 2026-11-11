@@ -9,3 +9,7 @@ Personal notes on the Skipper and Kipa whānau of Taranaki: hapū Ngāti Tawhiri
 ## Resources
 
 Those notes stay as the working synthesis. Person files and line files are under [resources](resources/README.md).
+
+## Profiles
+
+Website profiles, separate from the research notes, are under [profiles](profiles/structure.md). The site that reads those profiles is in [website](website/index.html).

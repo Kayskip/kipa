@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  background: #f3efe6;
+  color: #1c1914;
+  font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+  line-height: 1.55;
+}
+
+a {
+  color: #1c1914;
+}
+
+.site-header {
+  border-bottom: 1px solid #d9d0c2;
+  padding: 1.15rem 1.25rem 0.9rem;
+}
+
+.site-header-inner,
+.wrap,
+.site-footer p {
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.brand {
+  display: block;
+  color: inherit;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.site-place {
+  margin: 0 0 0.85rem;
+  padding: 0.3rem 0 0;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.site-nav a {
+  display: inline-block;
+  margin: 0 1rem 0.35rem 0;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.site-nav a[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: 0.22em;
+}
+
+.wrap {
+  padding: 1.75rem 1.25rem 3rem;
+}
+
+h1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.15;
+  margin: 0 0 0.6rem;
+}
+
+.lede,
+.meta p,
+.portrait-note,
+section p {
+  margin: 0 0 0.75rem;
+}
+
+.lede {
+  font-size: 1.15rem;
+}
+
+.people {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+}
+
+.people li {
+  margin: 0 0 1.1rem;
+}
+
+.people a {
+  display: block;
+  text-decoration: none;
+  border-bottom: 1px solid #d9d0c2;
+  padding-bottom: 0.9rem;
+}
+
+.people a:hover {
+  border-bottom-color: #1c1914;
+}
+
+.person-name {
+  display: block;
+  font-size: 1.45rem;
+}
+
+.person-note {
+  display: block;
+}
+
+.portrait {
+  width: 11rem;
+  min-height: 8rem;
+  margin: 0 0 1.5rem;
+  padding: 1rem;
+  background: #e4ddd0;
+}
+
+.portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.portrait-note {
+  margin: 0;
+}
+
+h2 {
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin: 0 0 0.45rem;
+}
+
+section {
+  margin-bottom: 1.6rem;
+}
+
+.site-footer {
+  border-top: 1px solid #d9d0c2;
+  padding: 1.1rem 1.25rem 1.75rem;
+}
+
+.site-footer p {
+  margin: 0;
+}

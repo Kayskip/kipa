@@ -1,6 +1,6 @@
 # Nga Karu O Te Rangi Skipper
 
-Also Karu. Child of [Greg Skipper](README.md) and [Sharron Skipper](sharron-skipper/README.md).
+Also Karu. Son of [Greg Skipper](README.md) and [Sharron Skipper](sharron-skipper/README.md). Born 4 April 1999.
 
 Full record: [Nga Karu O Te Rangi Skipper](../../../people/karu-skipper.md).
 
