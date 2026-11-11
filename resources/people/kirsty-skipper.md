@@ -21,6 +21,6 @@ Her mother. Children. Which name she uses now.
 
 ## Sources
 
-- Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
-- Bev Gibson, comment on the same post, 27 March 2010.
-- Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018. http://hdl.handle.net/10179/15861
+- [Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
+- Bev Gibson, comment on the [same post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html), 27 March 2010.
+- [Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018](http://hdl.handle.net/10179/15861).

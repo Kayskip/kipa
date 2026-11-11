@@ -17,4 +17,4 @@ His whānau, hapū, or dates. The surname Gibson is Bev's married name. It is us
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

@@ -1,6 +1,6 @@
 # John's line
 
-Bev Gibson says John was a brother of Mack, and Rangi Kipa's great-grandfather. The parent between John and Bert is not named. Do not close that gap.
+Bev Gibson's [27 March 2010 comments](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) say John was a brother of Mack, and Rangi Kipa's great-grandfather. The parent between John and Bert is not named. Do not close that gap.
 
 - [John Skipper](../people/john-skipper.md)
   - parent not named

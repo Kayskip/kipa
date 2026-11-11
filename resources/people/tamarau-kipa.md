@@ -1,6 +1,6 @@
 # Tamarau
 
-Full name, as Rangi Kipa wrote it on 26 March 2010: Te Hekerangi a Tamarau. Commonly Tamarau.
+Full name, as Rangi Kipa wrote it on [26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html): Te Hekerangi a Tamarau. Commonly Tamarau.
 
 ## Record
 
@@ -19,4 +19,4 @@ A birth date beyond the age Rangi gave. A surname he uses.
 
 ## Sources
 
-- Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

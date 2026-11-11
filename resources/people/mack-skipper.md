@@ -1,6 +1,6 @@
 # Mack Skipper
 
-Sourced from Bev Gibson, 27 March 2010.
+Sourced from [Bev Gibson, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
 
 ## Record
 
@@ -15,8 +15,8 @@ A son of Neha and Ngārere. Bev calls him one of the boys, and one of several so
 
 ## Not established
 
-His other children. Nganiwhi's whānau. Birth or death dates.
+His other children. Nganiwhi's whānau. Birth or passing dates.
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

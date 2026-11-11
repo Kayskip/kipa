@@ -1,6 +1,6 @@
 # Te Ahu Te Rei
 
-Sourced from Bonita Bigham (2018).
+Sourced from [Bonita Bigham (2018)](http://hdl.handle.net/10179/15861).
 
 ## Record
 
@@ -18,4 +18,4 @@ His parents, spouse, or hapū. Any tie to Neha and Ngārere other than the share
 
 ## Sources
 
-- Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018. http://hdl.handle.net/10179/15861
+- [Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018](http://hdl.handle.net/10179/15861).

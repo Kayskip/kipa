@@ -1,6 +1,6 @@
 # Mandy Te Hauoterangi Robinson
 
-Née Skipper. Sourced from Bev Gibson, 27 March 2010.
+Née Skipper. Sourced from [Bev Gibson, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
 
 ## Record
 
@@ -20,4 +20,4 @@ Dates. Any name she used besides Mandy Te Hauoterangi Robinson.
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

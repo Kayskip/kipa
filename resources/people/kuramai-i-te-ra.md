@@ -1,6 +1,6 @@
 # Kuramai-i-te-ra
 
-Sourced from the Barrett Honeyfield page, 21 February 2019. She is in these notes because the page uses her to place Hineone.
+Sourced from the [Barrett Honeyfield page](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/), 21 February 2019. She is in these notes because the page uses her to place Hineone.
 
 ## Record
 
@@ -17,4 +17,4 @@ Any descent from her into the Skipper or Kipa lines in these notes.
 
 ## Sources
 
-- Paul Roberts, "Wakaiwa Rāwinia's Āti Awa hapū connections", Barrett Honeyfield Tūpuna / Ancestry, 21 February 2019. https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/
+- [Paul Roberts, "Wakaiwa Rāwinia's Āti Awa hapū connections", Barrett Honeyfield Tūpuna / Ancestry, 21 February 2019](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/).

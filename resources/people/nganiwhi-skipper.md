@@ -1,6 +1,6 @@
 # Nganiwhi Skipper
 
-Sourced from Bev Gibson, 27 March 2010. No other name is given.
+Sourced from [Bev Gibson, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html). No other name is given.
 
 ## Record
 
@@ -17,4 +17,4 @@ Her parents and hapū. Her other children. Dates.
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

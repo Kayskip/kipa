@@ -1,6 +1,6 @@
 # Tari Hana
 
-Sourced from Tarina MacDonald, 2 April 2010.
+Sourced from [Tarina MacDonald, 2 April 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
 
 ## Record
 
@@ -17,4 +17,4 @@ His parents, hapū, or dates. Other children.
 
 ## Sources
 
-- Tarina MacDonald, comment on Skipper Whanau Re-Union, 2 April 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Tarina MacDonald, comment on Skipper Whanau Re-Union, 2 April 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

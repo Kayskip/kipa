@@ -1,10 +1,10 @@
 # Jan
 
-Named with Ray Skipper in Ira Skipper's death notice. No surname is given.
+Named with Ray Skipper in [Ira Skipper's death notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700). No surname is given.
 
 ## Record
 
-The notice says Ira was mother and mother-in-law of "Marie, Ray (dec) and Jan, and Greg (dec) and Sharron." Greg and Sharron were husband and wife, so Jan is paired with Ray in the same way. She is not recorded as Ira's daughter.
+[The notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) says Ira was mother and mother-in-law of "Marie, Ray (dec) and Jan, and Greg (dec) and Sharron." Greg and Sharron were husband and wife, so Jan is paired with Ray in the same way. She is not recorded as Ira's daughter.
 
 ## Relationships
 
@@ -12,8 +12,8 @@ The notice says Ira was mother and mother-in-law of "Marie, Ray (dec) and Jan, a
 
 ## Not established
 
-Her surname. Her parents. Whether she was still living in September 2020.
+Her surname. Her parents.
 
 ## Sources
 
-- Taranaki Daily News, Ira Skipper death notice, 8 September 2020. https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700
+- [Taranaki Daily News, Ira Skipper death notice, 8 September 2020](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700).

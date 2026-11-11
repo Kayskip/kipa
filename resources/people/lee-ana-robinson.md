@@ -6,7 +6,7 @@ Sister of Bev Gibson. Bev writes Lee-Ana and Leeana. Rangi Kipa writes Lee-ana R
 
 In Bev's sibling order she comes after Capree and before Patrick. Bev counts three sisters and two brothers. The sisters are Raewyn, Capree, and Lee-ana. Her first comment bundles the names less clearly. The count in the second comment is what these notes follow.
 
-Rangi wrote that in the week before 24 March 2010 he moko'd Bev Gibson, Raewyn Ashby, and Lee-ana Robinson. Bev left her sisters' stories for them to tell. Lee-ana did not comment on the post these notes use.
+Rangi wrote that in the week before [24 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) he moko'd Bev Gibson, Raewyn Ashby, and Lee-ana Robinson. Bev left her sisters' stories for them to tell. Lee-ana did not comment on the [post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) these notes use.
 
 ## Relationships
 
@@ -19,5 +19,5 @@ A married name, spouse, children, or dates.
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
-- Rangi Kipa, "Naumai Haere mai", same blog, 24 March 2010.
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
+- Rangi Kipa, "Naumai Haere mai", [same blog](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html), 24 March 2010.

@@ -1,6 +1,6 @@
 # Hinewaito
 
-Sourced from Bonita Bigham (2018). No surname is given. Bigham's mother.
+Sourced from [Bonita Bigham (2018)](http://hdl.handle.net/10179/15861). No surname is given. Bigham's mother.
 
 ## Record
 
@@ -22,8 +22,8 @@ Hinewaito made a kākahu huruhuru from contemporary materials. It took more than
 
 ## Not established
 
-Her other children. A surname. Whether she was still living when the exegesis was written. The exegesis speaks of her in the present tense and does not say.
+Her other children. A surname.
 
 ## Sources
 
-- Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018. http://hdl.handle.net/10179/15861
+- [Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018](http://hdl.handle.net/10179/15861).

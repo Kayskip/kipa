@@ -4,6 +4,7 @@ Working files for research, split so new material has a place to land. The inges
 
 - [people](people/README.md): one file per person we have a record for.
 - [whakapapa](whakapapa/README.md): the lines those people sit on.
+- [family tree](family-tree/README.md): ascendants and descendants of Albert Skipper. A partner opens their own branch.
 
 A statement is tagged the same way as the root notes:
 

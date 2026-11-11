@@ -1,6 +1,6 @@
 # Roopu
 
-Sourced from Bev Gibson, 27 March 2010. Bev writes "kui Roopu". No surname is given.
+Sourced from [Bev Gibson, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html). Bev writes "kui Roopu". No surname is given.
 
 ## Record
 
@@ -17,4 +17,4 @@ Her hapū and parents. Whether she and Mohi were a couple beyond sharing this wh
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

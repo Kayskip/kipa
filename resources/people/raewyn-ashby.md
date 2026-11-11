@@ -6,7 +6,7 @@ Née Robinson, as Bev Gibson tells it. Rangi Kipa writes Raewyn Ashby.
 
 Sister of Bev Gibson. In Bev's birth order she comes straight after Bev: Raewyn, then David, Capree, Lee-ana, and Patrick.
 
-Rangi wrote that in the week before 24 March 2010 he moko'd Bev Gibson, Raewyn Ashby, and Lee-ana Robinson. Bev says she will leave her sisters and brothers to tell their own stories. Raewyn did not comment on the post these notes use.
+Rangi wrote that in the week before [24 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) he moko'd Bev Gibson, Raewyn Ashby, and Lee-ana Robinson. Bev says she will leave her sisters and brothers to tell their own stories. Raewyn did not comment on the [post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) these notes use.
 
 ## Relationships
 
@@ -19,5 +19,5 @@ Her husband, children, or dates. Ashby is the name Rangi uses. Bev does not spel
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
-- Rangi Kipa, "Naumai Haere mai", same blog, 24 March 2010.
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
+- Rangi Kipa, "Naumai Haere mai", [same blog](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html), 24 March 2010.

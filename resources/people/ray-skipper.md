@@ -4,7 +4,7 @@ Also Raymond. Son of Ira Skipper.
 
 ## Record
 
-Ira's 2020 notice lists "Ray (dec) and Jan" beside "Greg (dec) and Sharron". Sharron is Greg's wife, so Jan is recorded here as Ray's partner on the same pattern. A condolence on that notice calls him Raymond and says he had already died.
+[Ira's 2020 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) lists "Ray (dec) and Jan" beside "Greg (dec) and Sharron". Sharron is Greg's wife, so Jan is recorded here as Ray's partner on the same pattern. A condolence on [that notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) calls him Raymond and says he had already died.
 
 ## Relationships
 
@@ -14,8 +14,8 @@ Ira's 2020 notice lists "Ray (dec) and Jan" beside "Greg (dec) and Sharron". Sha
 
 ## Not established
 
-His father. A death date, other than before 8 September 2020. His children.
+His father. A passing date, other than before 8 September 2020. His children.
 
 ## Sources
 
-- Taranaki Daily News, Ira Skipper death notice, 8 September 2020. https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700
+- [Taranaki Daily News, Ira Skipper death notice, 8 September 2020](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700).

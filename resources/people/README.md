@@ -14,11 +14,12 @@ One file per person we currently have a record for. Lines are indexed in [whakap
 - [Ray Skipper](ray-skipper.md)
 - [Jan](jan.md)
 - [Greg Skipper](greg-skipper.md)
+- [Montrose](montrose.md)
 - [Sharron Skipper](sharron-skipper.md)
 - [Brian Jones](brian-jones.md)
 - [Molly Jones](molly-jones.md)
 - [Neha Skipper](neha-skipper.md)
-- [Karu Skipper](karu-skipper.md)
+- [Nga Karu O Te Rangi Skipper](karu-skipper.md)
 
 ## Neha and Ngārere
 
@@ -95,8 +96,8 @@ One file per person we currently have a record for. Lines are indexed in [whakap
 
 A name appears in a source, and there is not enough to identify a person beyond that mention.
 
-- Glenn Toothill, Sam Williams, and Sharon Wipiti: listed as Ngāti Tawhirikura trustees on the Te Ātiawa hapū page in November 2026. No other record here.
-- Te Rina MacDonald: listed as a trustee on that same page. Not treated as the same person as [Tarina MacDonald](tarina-macdonald.md).
+- Glenn Toothill, Sam Williams, and Sharon Wipiti: listed as Ngāti Tawhirikura trustees on the [Te Ātiawa hapū page](https://teatiawa.iwi.nz/hapu-and-marae/nga-hapu-te-atiawa-hapu/ngati-tawhirikura/) in November 2026. No other record here.
+- Te Rina MacDonald: listed as a trustee on [that same page](https://teatiawa.iwi.nz/hapu-and-marae/nga-hapu-te-atiawa-hapu/ngati-tawhirikura/). Not treated as the same person as [Tarina MacDonald](tarina-macdonald.md).
 - Te Rei: Bonita Bigham mentions a son of hers by this name. Full name and parentage beyond that are not given.
 - Todd Sheridan: Bigham names him as an artist in the wider whānau. No parentage is given.
 - Puhi Nuku and Ria Waikerepuru: weavers Bigham names as her teachers, not as whānau in these notes.

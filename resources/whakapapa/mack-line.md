@@ -1,6 +1,6 @@
 # Mack's line
 
-Sourced from Bev Gibson's comments on the reunion blog, 27 March 2010.
+Sourced from [Bev Gibson's comments on the reunion blog](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html), 27 March 2010.
 
 - [Mack Skipper](../people/mack-skipper.md) and [Nganiwhi Skipper](../people/nganiwhi-skipper.md)
   - [Dave Ngaiwi Skipper](../people/dave-ngaiwi-skipper.md), second son, whāngai to [Roopu](../people/roopu.md) and [Mohi Moeahu](../people/mohi-moeahu.md), married to [Polly Whatumaramara](../people/polly-whatumaramara.md)

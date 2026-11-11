@@ -1,6 +1,6 @@
 # John Skipper
 
-Sourced from Bev Gibson, 27 March 2010.
+Sourced from [Bev Gibson, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
 
 ## Record
 
@@ -19,4 +19,4 @@ His spouse. His children. The parent who links him to Bert. John is Rangi's grea
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

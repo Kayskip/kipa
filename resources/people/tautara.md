@@ -1,6 +1,6 @@
 # Tautara
 
-Sourced from the Barrett Honeyfield page, 21 February 2019. This is a lead from another family's research, not a whānau manuscript.
+Sourced from the [Barrett Honeyfield page](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/), 21 February 2019. This is a lead from another family's research, not a whānau manuscript.
 
 ## Record
 
@@ -20,4 +20,4 @@ Any of this against a Skipper or Kipa whānau source. Potaka Taniwha is not give
 
 ## Sources
 
-- Paul Roberts, "Wakaiwa Rāwinia's Āti Awa hapū connections", Barrett Honeyfield Tūpuna / Ancestry, 21 February 2019. https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/
+- [Paul Roberts, "Wakaiwa Rāwinia's Āti Awa hapū connections", Barrett Honeyfield Tūpuna / Ancestry, 21 February 2019](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/).

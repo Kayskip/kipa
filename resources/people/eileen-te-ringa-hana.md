@@ -1,6 +1,6 @@
 # Eileen Te Ringa Hana
 
-Née Kipa. Sourced from Tarina MacDonald, 2 April 2010.
+Née Kipa. Sourced from [Tarina MacDonald, 2 April 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
 
 ## Record
 
@@ -18,4 +18,4 @@ Other children. Dates. Tarina says Julia was their only daughter, which leaves o
 
 ## Sources
 
-- Tarina MacDonald, comment on Skipper Whanau Re-Union, 2 April 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Tarina MacDonald, comment on Skipper Whanau Re-Union, 2 April 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

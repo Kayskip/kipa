@@ -1,6 +1,6 @@
 # Phyllis
 
-Sourced from Rangi Kipa, 26 March 2010. No surname is given.
+Sourced from [Rangi Kipa, 26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html). No surname is given.
 
 ## Record
 
@@ -12,8 +12,8 @@ Rangi calls her Nanny kuikui Phyllis. Kaiwhetu and Tamarau spent their early yea
 
 ## Not established
 
-Her whānau. Her surname. A death date.
+Her whānau. Her surname. A passing date.
 
 ## Sources
 
-- Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

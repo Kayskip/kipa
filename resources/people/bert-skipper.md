@@ -1,6 +1,6 @@
 # Bert Skipper
 
-Sourced from Rangi Kipa's comment, 26 March 2010. Surname taken from the Skipper name Rangi says he changed. The comment itself says "my Father Bert".
+Sourced from [Rangi Kipa's comment, 26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html). Surname taken from the Skipper name Rangi says he changed. The comment itself says "my Father Bert".
 
 ## Record
 
@@ -19,5 +19,5 @@ His parents. His spouse. A surname he himself used. Dates.
 
 ## Sources
 
-- Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
-- Bev Gibson, comments on the same post, 27 March 2010, for John as Rangi's great-grandfather.
+- [Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
+- Bev Gibson, comments on the [same post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html), 27 March 2010, for John as Rangi's great-grandfather.

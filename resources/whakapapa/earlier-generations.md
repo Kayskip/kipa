@@ -1,6 +1,6 @@
 # Earlier generations
 
-Sourced from the Barrett Honeyfield page only. That page is a write-up of Wakaiwa Rāwinia Barrett's tūpuna. It is a lead, not a whānau manuscript.
+Sourced from the [Barrett Honeyfield page](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/) only. [That page](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/) is a write-up of Wakaiwa Rāwinia Barrett's tūpuna. It is a lead, not a whānau manuscript.
 
 - [Tautara](../people/tautara.md)
   - [Kuramai-i-te-ra](../people/kuramai-i-te-ra.md)

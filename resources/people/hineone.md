@@ -1,6 +1,6 @@
 # Hineone
 
-Sourced from the Barrett Honeyfield page, 21 February 2019.
+Sourced from the [Barrett Honeyfield page](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/), 21 February 2019.
 
 ## Record
 
@@ -19,4 +19,4 @@ Hineone's mother. Kipa's father, if he was someone other than an unnamed partner
 
 ## Sources
 
-- Paul Roberts, "Wakaiwa Rāwinia's Āti Awa hapū connections", Barrett Honeyfield Tūpuna / Ancestry, 21 February 2019. https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/
+- [Paul Roberts, "Wakaiwa Rāwinia's Āti Awa hapū connections", Barrett Honeyfield Tūpuna / Ancestry, 21 February 2019](https://barretthoneyfield.com/2019/02/21/ngati-te-whiti/).

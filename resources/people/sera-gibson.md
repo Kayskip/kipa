@@ -4,7 +4,7 @@ Daughter of Bev Gibson. No surname is written. The Gibson file name keeps her di
 
 ## Record
 
-Bev, writing on 27 March 2010, names Sera among her children, with Tami, David, and Lane. Sera is in the photograph from Tami's wedding to Brad Cave. No other record.
+Bev, writing on [27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html), names Sera among her children, with Tami, David, and Lane. Sera is in the photograph from Tami's wedding to Brad Cave. No other record.
 
 ## Relationships
 
@@ -17,4 +17,4 @@ Dates. A surname.
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

@@ -1,6 +1,6 @@
 # Glen Skipper
 
-Sourced from Rangi Kipa's 2010 comment and from Bonita Bigham (2018).
+Sourced from [Rangi Kipa's 2010 comment](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) and from [Bonita Bigham (2018)](http://hdl.handle.net/10179/15861).
 
 ## Record
 
@@ -10,7 +10,7 @@ Bigham calls him Rangi's younger brother, a carver who has also worked in bronze
 
 She then says he was focusing his work on the māra kai at the papakāinga at Kātere, restoring cultivation practices and old cultivars, with the kai available to anyone who wanted it. He was also working with other māra in Taranaki, including one at Parihaka. She treats that gardening as continuous with Ngārere, who managed many acres of crops.
 
-The Te Ātiawa hapū page, as it stood in November 2026, listed Glen Skipper among the trustees of Ngāti Tawhirikura.
+The [Te Ātiawa hapū page](https://teatiawa.iwi.nz/hapu-and-marae/nga-hapu-te-atiawa-hapu/ngati-tawhirikura/), as it stood in November 2026, listed Glen Skipper among the trustees of Ngāti Tawhirikura.
 
 ## Relationships
 
@@ -24,6 +24,6 @@ His mother. His children. His own spouse.
 
 ## Sources
 
-- Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
-- Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018. http://hdl.handle.net/10179/15861
-- Te Kotahitanga o Te Ātiawa, Ngāti Tawhirikura, as the page stood in November 2026. https://teatiawa.iwi.nz/hapu-and-marae/nga-hapu-te-atiawa-hapu/ngati-tawhirikura/
+- [Rangi Kipa, comment on Skipper Whanau Re-Union, 26 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
+- [Bonita Bigham, *Haehae and the art of reconciliation*, Massey University MFA exegesis, 2018](http://hdl.handle.net/10179/15861).
+- [Te Kotahitanga o Te Ātiawa, Ngāti Tawhirikura, as the page stood in November 2026](https://teatiawa.iwi.nz/hapu-and-marae/nga-hapu-te-atiawa-hapu/ngati-tawhirikura/).

@@ -1,6 +1,6 @@
 # Mohi Moeahu
 
-Sourced from Bev Gibson, 27 March 2010. She writes "koro Mohi Moeahu".
+Sourced from [Bev Gibson, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html). She writes "koro Mohi Moeahu".
 
 ## Record
 
@@ -17,4 +17,4 @@ His hapū beyond the Okaiawa and Aotearoa marae setting Bev gives. Any tie of hi
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).

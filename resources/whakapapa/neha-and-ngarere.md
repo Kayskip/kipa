@@ -1,6 +1,6 @@
 # Neha and Ngārere
 
-The pair the 2010 reunion blog was trying to gather. Bigham says they had 11 children. Only the children a source actually names are listed.
+The pair the [2010 reunion blog](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) was trying to gather. Bigham says they had 11 children. Only the children a source actually names are listed.
 
 - [Neha Kipa](../people/neha-kipa.md) and [Ngārere Kipa](../people/ngarere-kipa.md)
   - [John Skipper](../people/john-skipper.md). See [John's line](john-line.md).

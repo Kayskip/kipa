@@ -4,11 +4,11 @@ Also Paddy. Wife of Albert Skipper. No birth line above her has been found.
 
 ## Record
 
-Died at Riverside Lifecare, New Plymouth, on 4 September 2020. Private cremation. Notice published in the Taranaki Daily News on 8 September 2020.
+Died at Riverside Lifecare, New Plymouth, on 4 September 2020. Private cremation. [Notice published in the Taranaki Daily News on 8 September 2020](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700).
 
-The notice names her as wife of the late Albert (Mammy), mother of Marie, Ray, and Greg, and sister of Tui, Jack, Una, and Ted. It does not give her parents or a maiden name.
+[The notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) names her as wife of the late Albert (Mammy), mother of Marie, Ray, and Greg, and sister of Tui, Jack, Una, and Ted. It does not give her parents or a maiden name.
 
-Ngamata Skipper's note on that notice calls her aunty of the Skipper-Kipa whānau and kuia of Katere, and Greg's right hand. That note does not name a parent either. Condolences also mention work at the State Hotel and golf at Fitzroy.
+Ngamata Skipper's note on [that notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) calls her aunty of the Skipper-Kipa whānau and kuia of Katere, and Greg's right hand. That note does not name a parent either. Condolences also mention work at the State Hotel and golf at Fitzroy.
 
 ## Relationships
 
@@ -23,4 +23,4 @@ Her parents. Her maiden name. Which of the siblings was older. Whether "aunty" a
 ## Sources
 
 - Family record, 11 November 2026. Greg is her son.
-- Taranaki Daily News, Ira Skipper death notice, 8 September 2020. https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700
+- [Taranaki Daily News, Ira Skipper death notice, 8 September 2020](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700).

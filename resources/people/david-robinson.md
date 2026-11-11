@@ -4,7 +4,7 @@ Brother of Bev Gibson. Not [David Gibson](david-gibson.md), who is Bev's son.
 
 ## Record
 
-In Bev's list of siblings, on 27 March 2010, David comes after Raewyn and before Capree. She counts two brothers, David and Patrick, Patrick being the adopted one. She says she will leave his story to him. He did not comment on the post these notes use.
+In Bev's list of siblings, on [27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html), David comes after Raewyn and before Capree. She counts two brothers, David and Patrick, Patrick being the adopted one. She says she will leave his story to him. He did not comment on the [post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) these notes use.
 
 ## Relationships
 
@@ -17,4 +17,4 @@ His spouse, children, or dates.
 
 ## Sources
 
-- Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010. http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html
+- [Bev Gibson, comments on Skipper Whanau Re-Union, 27 March 2010](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html).
