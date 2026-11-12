@@ -43,5 +43,5 @@ Profiles started:
 - [Albert Skipper](albert-skipper.md)
 - [Gregory John Skipper](greg-skipper.md)
 - [Sharron Skipper](sharron-skipper.md)
-- [Neha Lee Skipper-Jones](neha-skipper.md)
-- [Nga Karu O Te Rangi Brian Skipper-Jones](nga-karu-o-te-rangi-skipper.md)
+- [Neha Skipper-Jones](neha-skipper.md)
+- [Nga Karu O Te Rangi Skipper-Jones](nga-karu-o-te-rangi-skipper.md)

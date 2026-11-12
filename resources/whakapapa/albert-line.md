@@ -8,7 +8,7 @@ Albert's parents are unknown, so his line is not joined to a child of Neha and N
   - [Marie Skipper](../people/marie-skipper.md)
   - [Ray Skipper](../people/ray-skipper.md) and [Jan](../people/jan.md)
   - [Greg Skipper](../people/greg-skipper.md) and [Sharron Skipper](../people/sharron-skipper.md)
-    - [Neha Lee Skipper-Jones](../people/neha-skipper.md)
-    - [Nga Karu O Te Rangi Brian Skipper-Jones](../people/karu-skipper.md)
+    - [Neha Skipper-Jones](../people/neha-skipper.md)
+    - [Nga Karu O Te Rangi Skipper-Jones](../people/karu-skipper.md)
 
 Sharron's parents are [Brian Jones](../people/brian-jones.md) and [Molly Jones](../people/molly-jones.md).

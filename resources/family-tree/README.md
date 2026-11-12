@@ -48,5 +48,5 @@ flowchart TB
       - [Montrose](ira-skipper/greg-skipper/montrose.md), his father
       - [Sharron Skipper](ira-skipper/greg-skipper/sharron-skipper/README.md), his wife
         - [Her ascendants](ira-skipper/greg-skipper/sharron-skipper/ascendants.md)
-      - [Neha Lee Skipper-Jones](ira-skipper/greg-skipper/neha-skipper.md)
-      - [Nga Karu O Te Rangi Brian Skipper-Jones](ira-skipper/greg-skipper/karu-skipper.md)
+      - [Neha Skipper-Jones](ira-skipper/greg-skipper/neha-skipper.md)
+      - [Nga Karu O Te Rangi Skipper-Jones](ira-skipper/greg-skipper/karu-skipper.md)

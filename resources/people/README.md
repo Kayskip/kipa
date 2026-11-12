@@ -18,8 +18,8 @@ One file per person we currently have a record for. Lines are indexed in [whakap
 - [Sharron Skipper](sharron-skipper.md)
 - [Brian Jones](brian-jones.md)
 - [Molly Jones](molly-jones.md)
-- [Neha Lee Skipper-Jones](neha-skipper.md)
-- [Nga Karu O Te Rangi Brian Skipper-Jones](karu-skipper.md)
+- [Neha Skipper-Jones](neha-skipper.md)
+- [Nga Karu O Te Rangi Skipper-Jones](karu-skipper.md)
 
 ## Neha and Ngārere
 

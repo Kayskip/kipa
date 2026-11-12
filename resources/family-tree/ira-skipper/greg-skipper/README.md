@@ -9,5 +9,5 @@ Full record: [Greg Skipper](../../../people/greg-skipper.md).
 - Mother: [Ira](../README.md)
 - Father: [Montrose](montrose.md)
 - Wife: [Sharron Skipper](sharron-skipper/README.md)
-- [Neha Lee Skipper-Jones](neha-skipper.md)
-- [Nga Karu O Te Rangi Brian Skipper-Jones](karu-skipper.md)
+- [Neha Skipper-Jones](neha-skipper.md)
+- [Nga Karu O Te Rangi Skipper-Jones](karu-skipper.md)

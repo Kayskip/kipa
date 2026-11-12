@@ -1,6 +1,6 @@
-# Neha Lee Skipper-Jones
+# Neha Skipper-Jones
 
-Middle name Lee. Surname Skipper-Jones. Son of Greg Skipper and Sharron Skipper. Named for the ancestor [Neha Kipa](neha-kipa.md). Not the same person as that ancestor.
+Surname Skipper-Jones. Son of Greg Skipper and Sharron Skipper. Named for the ancestor [Neha Kipa](neha-kipa.md). Not the same person as that ancestor.
 
 ## Record
 
@@ -9,7 +9,7 @@ Named as a child of Gregory John Skipper in the [2018 death notice](https://deat
 ## Relationships
 
 - Parents: [Greg Skipper](greg-skipper.md) and [Sharron Skipper](sharron-skipper.md)
-- Sibling: [Nga Karu O Te Rangi Brian Skipper-Jones](karu-skipper.md)
+- Sibling: [Nga Karu O Te Rangi Skipper-Jones](karu-skipper.md)
 - Grandmother: [Ira](ira-skipper.md)
 - Namesake: [Neha Kipa](neha-kipa.md)
 

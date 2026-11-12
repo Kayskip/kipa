@@ -90,6 +90,10 @@ section p {
   white-space: nowrap;
 }
 
+.references a {
+  overflow-wrap: anywhere;
+}
+
 .pepeha p {
   margin: 0 0 0.2rem;
 }
