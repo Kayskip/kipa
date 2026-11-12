@@ -10,8 +10,12 @@
 
 ## Bio
 
-Sharron Skipper is the wife of Gregory John Skipper and the mother of Neha Skipper and Nga Karu O Te Rangi Skipper. She is the daughter of Brian Jones and Molly Jones.
+<insert>
+
+## Family link
+
+Daughter of Brian Jones and Molly Jones. Mother of [Neha Skipper](neha-skipper.md) and [Nga Karu O Te Rangi Skipper](nga-karu-o-te-rangi-skipper.md). Wife of [Gregory John Skipper](greg-skipper.md). Gregory was the son of Ira Skipper and Montrose. Albert Skipper was Ira's husband.
 
 ## Whakapapa
 
-She is the wife of Gregory John Skipper and the mother of Neha Skipper and Nga Karu O Te Rangi Skipper. She is the daughter of Brian Jones and Molly Jones. Greg's mother was Ira Skipper and his father was Montrose. The whānau is of Ngāti Tawhirikura, with marae Katere ki te Moana at Waiwhakaiho.
+She is the daughter of Brian Jones and Molly Jones, the mother of [Neha Skipper](neha-skipper.md) and [Nga Karu O Te Rangi Skipper](nga-karu-o-te-rangi-skipper.md), and the wife of [Gregory John Skipper](greg-skipper.md). Gregory's mother was Ira Skipper and his father was Montrose. Albert Skipper was Ira's husband. The whānau is of Ngāti Tawhirikura, with Katere marae at Waiwhakaiho.

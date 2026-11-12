@@ -12,4 +12,4 @@ Those notes stay as the working synthesis. Person files and line files are under
 
 ## Profiles
 
-Website profiles, separate from the research notes, are under [profiles](profiles/structure.md). The site that reads those profiles is in [website](website/index.html).
+Website profiles, separate from the research notes, are under [profiles](profiles/structure.md). The public site is in [website](website/index.html). It is a static site for GitHub Pages: relative links, so it still works when the address is `https://kayskip.github.io/kipa/`.

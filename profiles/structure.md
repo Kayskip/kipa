@@ -3,11 +3,13 @@
 Each file in this folder is a website profile. Research notes stay in [resources](../resources/README.md). A profile uses these fields, in this order.
 
 - **Full name:** The name shown on the site.
-- **Date of birth:** Write `<insert>` until it is known.
+- **Date of birth:** Write `<insert>` until it is known. Keep this off the home list.
+- **Passed away:** The date, when this person has passed. Leave the line out when there is no passing to record. Keep this off the home list.
 - **Iwi:** Ngāti Tawhirikura
 - **Image:** A path to a picture. Write `<insert>` until the image is added.
-- **Bio:** A short account of the person, written for the site.
-- **Whakapapa:** This person's own relation to the whānau: parents, partner, children, and siblings, then the line those connections sit on.
+- **Bio:** Who this person was, and what they did for the whānau. This is not the family link. Write `<insert>` until that account is known.
+- **Family link:** This person's own relations, in this order: child of, parent of, partner of, sibling of. Name each person. Where the line reaches Gregory, he is the son of Ira Skipper and Montrose, and Albert Skipper was Ira's husband.
+- **Whakapapa:** The family link, then the line those connections sit on. The marae is Katere marae at Waiwhakaiho.
 
 ```markdown
 # Full name
@@ -16,11 +18,17 @@ Each file in this folder is a website profile. Research notes stay in [resources
 
 **Date of birth:** <insert>
 
+**Passed away:** <insert>
+
 **Iwi:** Ngāti Tawhirikura
 
 **Image:** <insert>
 
 ## Bio
+
+<insert>
+
+## Family link
 
 <insert>
 

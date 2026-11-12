@@ -4,14 +4,22 @@
 
 **Date of birth:** <insert>
 
+**Passed away:** 1 April 2018, aged 59
+
 **Iwi:** Ngāti Tawhirikura
 
 **Image:** <insert>
 
 ## Bio
 
-Gregory John Skipper, also known as Skip, was the husband of Sharron Skipper and the father of Neha Skipper and Nga Karu O Te Rangi Skipper. He passed away on 1 April 2018, aged 59.
+Gregory John Skipper was also known as Skip.
+
+<insert>
+
+## Family link
+
+Son of Ira Skipper and Montrose. Albert Skipper was Ira's husband. Father of [Neha Skipper](neha-skipper.md) and [Nga Karu O Te Rangi Skipper](nga-karu-o-te-rangi-skipper.md). Husband of [Sharron Skipper](sharron-skipper.md).
 
 ## Whakapapa
 
-His mother was Ira Skipper and his father was Montrose. He was the husband of Sharron Skipper and the father of Neha Skipper and Nga Karu O Te Rangi Skipper. The whānau is of Ngāti Tawhirikura, with marae Katere ki te Moana at Waiwhakaiho.
+His mother was Ira Skipper and his father was Montrose. Albert Skipper was Ira's husband. He was the father of [Neha Skipper](neha-skipper.md) and [Nga Karu O Te Rangi Skipper](nga-karu-o-te-rangi-skipper.md), and the husband of [Sharron Skipper](sharron-skipper.md). The whānau is of Ngāti Tawhirikura, with Katere marae at Waiwhakaiho.
