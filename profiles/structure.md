@@ -1,6 +1,6 @@
 # Profile structure
 
-Each file in this folder is a website profile. Research notes stay in [resources](../resources/README.md). A profile uses these fields, in this order.
+Website profiles are split into two folders. [Active](active) profiles are the people whose information is shown and can be opened. [Inactive](inactive) profiles are names held until the information is verified. An inactive name appears on the people list and does not open a page. Research notes stay in [resources](../resources/README.md). An active profile uses these fields, in this order.
 
 - **Full name:** The name shown on the site.
 - **Date of birth:** Write `<insert>` until it is known. Keep this off the home list.
@@ -37,11 +37,15 @@ Each file in this folder is a website profile. Research notes stay in [resources
 <insert>
 ```
 
-Profiles started:
+Active profiles:
 
-- [Ira](ira.md)
-- [Albert Skipper](albert-skipper.md)
-- [Gregory John Skipper](greg-skipper.md)
-- [Sharron Skipper](sharron-skipper.md)
-- [Neha Skipper-Jones](neha-skipper.md)
-- [Nga Karu O Te Rangi Skipper-Jones](nga-karu-o-te-rangi-skipper.md)
+- [Ira](active/ira.md)
+- [Albert Skipper](active/albert-skipper.md)
+- [Gregory John Skipper](active/greg-skipper.md)
+- [Sharron Skipper](active/sharron-skipper.md)
+- [Neha Skipper-Jones](active/neha-skipper.md)
+- [Nga Karu O Te Rangi Skipper-Jones](active/nga-karu-o-te-rangi-skipper.md)
+- [Una](active/una.md)
+- [Neha Kipa](active/neha-kipa.md)
+
+An inactive profile has the name and a status of Inactive. The names are in [inactive](inactive).

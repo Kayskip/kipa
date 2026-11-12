@@ -10,7 +10,7 @@
 
 ## Bio
 
-Neha Skipper-Jones is named for the ancestor Neha Kipa.
+Neha Skipper-Jones is named for the ancestor [Neha Kipa](neha-kipa.md).
 
 <insert>
 

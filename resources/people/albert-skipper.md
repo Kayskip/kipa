@@ -10,7 +10,7 @@ Died about February 2010. Rangi Kipa, writing on [24 March 2010](http://skipperw
 
 ## Relationships
 
-- Wife: [Ira](../profiles/ira.md). Her surname is not confirmed. Family record, 12 November 2026.
+- Wife: [Ira](../profiles/active/ira.md). Her surname is not confirmed. Family record, 12 November 2026.
 - Father of Gregory John Skipper through Gregory's mother Ira, and grandfather of Neha Skipper-Jones and Nga Karu O Te Rangi Skipper-Jones through their grandmother Ira. Family record, 12 November 2026.
 - Called uncle by [Rangi Kipa](rangi-kipa.md)
 
