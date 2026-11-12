@@ -1,4 +1,4 @@
-# Ascendants of Ira Skipper
+# Ascendants of Ira
 
 Her parents and maiden name are unknown, so the line stops at her siblings.
 
@@ -11,4 +11,4 @@ Named on her [2020 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/
 
 Which sibling was older is unknown.
 
-Back to [Ira Skipper](README.md).
+Back to [Ira](README.md).

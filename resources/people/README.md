@@ -5,7 +5,7 @@ One file per person we currently have a record for. Lines are indexed in [whakap
 ## Albert and Ira
 
 - [Albert Skipper](albert-skipper.md)
-- [Ira Skipper](ira-skipper.md)
+- [Ira](ira-skipper.md)
 - [Tui](tui.md)
 - [Jack](jack.md)
 - [Una](una.md)
@@ -18,8 +18,8 @@ One file per person we currently have a record for. Lines are indexed in [whakap
 - [Sharron Skipper](sharron-skipper.md)
 - [Brian Jones](brian-jones.md)
 - [Molly Jones](molly-jones.md)
-- [Neha Skipper](neha-skipper.md)
-- [Nga Karu O Te Rangi Skipper](karu-skipper.md)
+- [Neha Lee Skipper-Jones](neha-skipper.md)
+- [Nga Karu O Te Rangi Brian Skipper-Jones](karu-skipper.md)
 
 ## Neha and Ngārere
 

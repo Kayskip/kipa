@@ -1,6 +1,6 @@
 # Tui
 
-Sister of Ira Skipper. No surname is recorded.
+Sister of Ira. No surname is recorded.
 
 ## Record
 
@@ -8,7 +8,7 @@ Sister of Ira Skipper. No surname is recorded.
 
 ## Relationships
 
-- Sibling: [Ira Skipper](ira-skipper.md), [Jack](jack.md), [Una](una.md), [Ted](ted.md)
+- Sibling: [Ira](ira-skipper.md), [Jack](jack.md), [Una](una.md), [Ted](ted.md)
 
 ## Not established
 

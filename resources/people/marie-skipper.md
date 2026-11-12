@@ -1,6 +1,6 @@
 # Marie Skipper
 
-Daughter of Ira Skipper. Surname taken from [Ira's notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700). No other surname is given.
+Daughter of Ira. Surname taken from [Ira's notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700). No other surname is given.
 
 ## Record
 
@@ -8,7 +8,7 @@ Daughter of Ira Skipper. Surname taken from [Ira's notice](https://deaths.tarana
 
 ## Relationships
 
-- Mother: [Ira Skipper](ira-skipper.md)
+- Mother: [Ira](ira-skipper.md)
 - Siblings: [Ray Skipper](ray-skipper.md), [Greg Skipper](greg-skipper.md)
 
 ## Not established

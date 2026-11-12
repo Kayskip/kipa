@@ -1,6 +1,6 @@
 # Una
 
-Sister of Ira Skipper. No surname is recorded. She has since passed away.
+Sister of Ira. No surname is recorded. She has since passed away.
 
 ## Record
 
@@ -8,7 +8,7 @@ Sister of Ira Skipper. No surname is recorded. She has since passed away.
 
 ## Relationships
 
-- Sibling: [Ira Skipper](ira-skipper.md), [Tui](tui.md), [Jack](jack.md), [Ted](ted.md)
+- Sibling: [Ira](ira-skipper.md), [Tui](tui.md), [Jack](jack.md), [Ted](ted.md)
 
 ## Not established
 

@@ -1,8 +1,8 @@
-# Ira Skipper
+# Ira
 
 Also Paddy. Wife of [Albert Skipper](../albert-skipper/README.md). Passed away on 4 September 2020.
 
-Full record: [Ira Skipper](../../people/ira-skipper.md).
+Full record: [Ira](../../people/ira-skipper.md).
 
 - [Her ascendants and siblings](ascendants.md)
 - [Marie Skipper](marie-skipper.md)

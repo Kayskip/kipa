@@ -1,6 +1,6 @@
 # Jan
 
-Named with Ray Skipper in [Ira Skipper's death notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700). No surname is given.
+Named with Ray Skipper in [Ira's death notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700). No surname is given.
 
 ## Record
 

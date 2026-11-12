@@ -1,6 +1,6 @@
-# Neha Skipper
+# Neha Lee Skipper-Jones
 
-**Full name:** Neha Skipper
+**Full name:** Neha Lee Skipper-Jones
 
 **Date of birth:** <insert>
 
@@ -10,14 +10,14 @@
 
 ## Bio
 
-Neha Skipper is named for the ancestor Neha Kipa, and he is not that ancestor.
+Neha Lee Skipper-Jones is named for the ancestor Neha Kipa.
 
 <insert>
 
 ## Family link
 
-Son of [Gregory John Skipper](greg-skipper.md) and [Sharron Skipper](sharron-skipper.md). Brother of [Nga Karu O Te Rangi Skipper](nga-karu-o-te-rangi-skipper.md). Grandson of Ira Skipper and Montrose. Albert Skipper was Ira's husband.
+Son of [Gregory John Skipper](greg-skipper.md) and [Sharron Skipper](sharron-skipper.md), brother of [Nga Karu O Te Rangi Brian Skipper-Jones](nga-karu-o-te-rangi-skipper.md), grandson of [Ira](ira.md) and Montrose, and of [Albert Skipper](albert-skipper.md) through his grandmother Ira.
 
 ## Whakapapa
 
-He is the son of [Gregory John Skipper](greg-skipper.md) and [Sharron Skipper](sharron-skipper.md), and the brother of [Nga Karu O Te Rangi Skipper](nga-karu-o-te-rangi-skipper.md). His grandmother was Ira Skipper and his grandfather was Montrose. Albert Skipper was Ira's husband. The whānau is of Ngāti Tawhirikura, with Katere marae at Waiwhakaiho.
+He is the son of [Gregory John Skipper](greg-skipper.md) and [Sharron Skipper](sharron-skipper.md), and the brother of [Nga Karu O Te Rangi Brian Skipper-Jones](nga-karu-o-te-rangi-skipper.md). His grandmother was [Ira](ira.md) and his grandfather was Montrose. [Albert Skipper](albert-skipper.md) was his grandfather through his grandmother Ira. The whānau is of Ngāti Tawhirikura, with Katere marae at Waiwhakaiho.

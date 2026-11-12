@@ -8,7 +8,7 @@ Each file in this folder is a website profile. Research notes stay in [resources
 - **Iwi:** Ngāti Tawhirikura
 - **Image:** A path to a picture. Write `<insert>` until the image is added.
 - **Bio:** Who this person was, and what they did for the whānau. This is not the family link. Write `<insert>` until that account is known.
-- **Family link:** This person's own relations, in this order: child of, parent of, partner of, sibling of. Name each person. Where the line reaches Gregory, he is the son of Ira Skipper and Montrose, and Albert Skipper was Ira's husband.
+- **Family link:** This person's own relations, in this order: child of, parent of, partner of, sibling of. Separate them with commas. Name only the people this person is related to.
 - **Whakapapa:** The family link, then the line those connections sit on. The marae is Katere marae at Waiwhakaiho.
 
 ```markdown
@@ -39,7 +39,9 @@ Each file in this folder is a website profile. Research notes stay in [resources
 
 Profiles started:
 
+- [Ira](ira.md)
+- [Albert Skipper](albert-skipper.md)
 - [Gregory John Skipper](greg-skipper.md)
 - [Sharron Skipper](sharron-skipper.md)
-- [Neha Skipper](neha-skipper.md)
-- [Nga Karu O Te Rangi Skipper](nga-karu-o-te-rangi-skipper.md)
+- [Neha Lee Skipper-Jones](neha-skipper.md)
+- [Nga Karu O Te Rangi Brian Skipper-Jones](nga-karu-o-te-rangi-skipper.md)

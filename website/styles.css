@@ -27,7 +27,7 @@ a {
 .brand a {
   display: block;
   color: inherit;
-  font-size: 1.2rem;
+  font-size: 2.15rem;
   font-weight: 500;
   line-height: 1.2;
   text-decoration: none;
@@ -44,6 +44,11 @@ h1.brand {
   font-size: 0.75rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+}
+
+.site-place span {
+  display: block;
+  line-height: 1.35;
 }
 
 .site-nav a {
@@ -72,13 +77,85 @@ h1 {
 
 .lede,
 .meta p,
-.portrait-note,
+.relation,
 section p {
   margin: 0 0 0.75rem;
 }
 
 .lede {
   font-size: 1.15rem;
+}
+
+.lede a[href^="tel"],
+.contact a[href^="tel"] {
+  white-space: nowrap;
+}
+
+.contact {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 1.2rem 1.25rem;
+  background: #e4ddd0;
+}
+
+.contact > p {
+  margin: 0 0 1.15rem;
+}
+
+.contact-row {
+  margin: 0 0 1rem;
+}
+
+.contact-row:last-child {
+  margin: 0;
+}
+
+.contact-row p {
+  margin: 0 0 0.35rem;
+}
+
+.contact-row p:last-child {
+  margin: 0;
+}
+
+.contact-row .contact-label {
+  margin: 0 0 0.25rem;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.people-search {
+  margin: 0 0 1rem;
+}
+
+.people-search-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.people-search input,
+.people-search input:focus,
+.people-search input:focus-visible {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid #f3efe6;
+  outline: 1px solid #f3efe6;
+  background: #fff;
+  color: #1c1914;
+  font: inherit;
+}
+
+.people-intro {
+  margin: 0 0 1.5rem;
+}
+
+.people-empty {
+  margin: 0;
 }
 
 .people {
@@ -89,6 +166,10 @@ section p {
 
 .people li {
   margin: 0 0 1.1rem;
+}
+
+.people li[hidden] {
+  display: none;
 }
 
 .people a {
@@ -102,6 +183,11 @@ section p {
   border-bottom-color: #1c1914;
 }
 
+.people mark {
+  background: #f3e2a2;
+  color: inherit;
+}
+
 .person-name {
   display: block;
   font-size: 1.45rem;
@@ -109,28 +195,6 @@ section p {
 
 .person-note {
   display: block;
-}
-
-.portrait {
-  width: 11rem;
-  min-height: 8rem;
-  margin: 0 0 1.5rem;
-  padding: 1rem;
-  background: #e4ddd0;
-}
-
-.portrait img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.portrait img[hidden] {
-  display: none;
-}
-
-.portrait-note {
-  margin: 0;
 }
 
 h2 {

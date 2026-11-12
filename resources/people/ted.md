@@ -1,6 +1,6 @@
 # Ted
 
-Brother of Ira Skipper. No surname is recorded.
+Brother of Ira. No surname is recorded.
 
 ## Record
 
@@ -8,7 +8,7 @@ Brother of Ira Skipper. No surname is recorded.
 
 ## Relationships
 
-- Sibling: [Ira Skipper](ira-skipper.md), [Tui](tui.md), [Jack](jack.md), [Una](una.md)
+- Sibling: [Ira](ira-skipper.md), [Tui](tui.md), [Jack](jack.md), [Una](una.md)
 
 ## Not established
 

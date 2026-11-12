@@ -39,7 +39,7 @@ flowchart TB
 
 - [Albert Skipper](albert-skipper/README.md)
   - [Ascendants](albert-skipper/ascendants.md)
-  - [Ira Skipper](ira-skipper/README.md), his wife
+  - [Ira](ira-skipper/README.md), his wife
     - [Her ascendants and siblings](ira-skipper/ascendants.md)
     - [Marie Skipper](ira-skipper/marie-skipper.md)
     - [Ray Skipper](ira-skipper/ray-skipper/README.md)
@@ -48,5 +48,5 @@ flowchart TB
       - [Montrose](ira-skipper/greg-skipper/montrose.md), his father
       - [Sharron Skipper](ira-skipper/greg-skipper/sharron-skipper/README.md), his wife
         - [Her ascendants](ira-skipper/greg-skipper/sharron-skipper/ascendants.md)
-      - [Neha Skipper](ira-skipper/greg-skipper/neha-skipper.md)
-      - [Nga Karu O Te Rangi Skipper](ira-skipper/greg-skipper/karu-skipper.md)
+      - [Neha Lee Skipper-Jones](ira-skipper/greg-skipper/neha-skipper.md)
+      - [Nga Karu O Te Rangi Brian Skipper-Jones](ira-skipper/greg-skipper/karu-skipper.md)

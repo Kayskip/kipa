@@ -1,6 +1,6 @@
 # Ray Skipper
 
-Also Raymond. Son of Ira Skipper.
+Also Raymond. Son of Ira.
 
 ## Record
 
@@ -8,7 +8,7 @@ Also Raymond. Son of Ira Skipper.
 
 ## Relationships
 
-- Mother: [Ira Skipper](ira-skipper.md)
+- Mother: [Ira](ira-skipper.md)
 - Partner: [Jan](jan.md)
 - Siblings: [Marie Skipper](marie-skipper.md), [Greg Skipper](greg-skipper.md)
 

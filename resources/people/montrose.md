@@ -4,7 +4,7 @@ Father of Greg Skipper. No other name is recorded.
 
 ## Record
 
-Greg Skipper was born to Montrose. Greg's mother is Ira Skipper.
+Greg Skipper was born to Montrose. Greg's mother is Ira.
 
 ## Relationships
 
