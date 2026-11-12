@@ -77,7 +77,6 @@ h1 {
 
 .lede,
 .meta p,
-.relation,
 section p {
   margin: 0 0 0.75rem;
 }
@@ -89,6 +88,18 @@ section p {
 .lede a[href^="tel"],
 .contact a[href^="tel"] {
   white-space: nowrap;
+}
+
+.pepeha p {
+  margin: 0 0 0.2rem;
+}
+
+.pepeha p:last-child {
+  margin: 0;
+}
+
+.contact .pepeha {
+  margin: 0 0 1.15rem;
 }
 
 .contact {
