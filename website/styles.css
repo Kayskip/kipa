@@ -23,11 +23,18 @@ a {
   margin-right: auto;
 }
 
-.brand {
+.brand,
+.brand a {
   display: block;
   color: inherit;
   font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2;
   text-decoration: none;
+}
+
+h1.brand {
+  margin: 0;
 }
 
 .site-place {
@@ -76,7 +83,7 @@ section p {
 
 .people {
   list-style: none;
-  margin: 1.5rem 0 0;
+  margin: 0;
   padding: 0;
 }
 
@@ -116,6 +123,10 @@ section p {
   display: block;
   width: 100%;
   height: auto;
+}
+
+.portrait img[hidden] {
+  display: none;
 }
 
 .portrait-note {
