@@ -90,7 +90,11 @@ section p {
   white-space: nowrap;
 }
 
-.references a {
+.contact > p:last-child {
+  margin: 0;
+}
+
+.contact a {
   overflow-wrap: anywhere;
 }
 
@@ -102,7 +106,7 @@ section p {
   margin: 0;
 }
 
-.contact .pepeha {
+.contact > .pepeha {
   margin: 0 0 1.15rem;
 }
 
@@ -139,6 +143,51 @@ section p {
   font-size: 0.75rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+}
+
+.image {
+  margin: 0;
+  max-width: 100%;
+}
+
+.image img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.image figcaption {
+  padding: 0.55rem 0 0;
+}
+
+.article-deck {
+  font-style: italic;
+  margin: 0 0 1.15rem;
+}
+
+.article h2 {
+  font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+  font-size: 1.45rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+  line-height: 1.25;
+  margin: 0 0 0.6rem;
+  padding: 0.85rem 0 0;
+}
+
+.article ol {
+  margin: 0 0 0.75rem;
+  padding: 0 0 0 1.25rem;
+}
+
+.article li {
+  margin: 0 0 0.75rem;
+}
+
+.article li:last-child {
+  margin: 0;
 }
 
 .people-search {

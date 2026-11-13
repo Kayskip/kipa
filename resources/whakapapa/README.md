@@ -8,4 +8,4 @@ Line files. Each one is an index of people already written up. The full discussi
 - [Mack's line](mack-line.md), including Bev Gibson.
 - [Apihaka's line](apihaka-line.md), including Bonita Bigham.
 - [Perere's line](perere-line.md), including Tarina MacDonald.
-- [Albert and Ira](albert-line.md). Albert's parents are still unknown, so he is not yet joined to a child of Neha and Ngārere. The [family tree](../family-tree/README.md) follows his ascendants and descendants, and branches at each partner.
+- [Albert and Ira Skipper](albert-line.md). Albert's parents are still unknown, so he is not yet joined to a child of Neha and Ngārere. The [family tree](../family-tree/README.md) follows his ascendants and descendants, and branches at each partner.

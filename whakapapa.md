@@ -6,13 +6,13 @@ Ingested 11 November 2026. Three kinds of statement are kept apart:
 - **Sourced:** written on a named public page. Still someone else's account, not a verified family register.
 - **Unlinked:** a likely connection that no source yet joins with a parent name.
 
-## Albert and Ira
+## Albert and Ira Skipper
 
 Albert Skipper, also Mammy, died February 2010. On 24 March 2010 Rangi Kipa wrote, on [a blog](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) addressed to the descendants of Neha and Ngārere Kipa, that talk had turned to "Uncle Albert Skippers' tangi in February at Katere Ki Te Moana/Tarereare".
 
-Ira, also Paddy, was his wife. Her surname is not confirmed. She died at Riverside Lifecare on 4 September 2020. [Her notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) prints her as Ira Skipper, and names children Marie, Ray, and Greg, and siblings Tui, Jack, Una, and Ted. It does not name her parents. No birth line for her has been found past those siblings.
+Ira Skipper, also Paddy, was his wife. She died at Riverside Lifecare on 4 September 2020. [Her notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) prints her as Ira Skipper, and names children Marie, Ray, and Greg, and siblings Tui, Jack, Una, and Ted. It does not name her parents. No birth line for her has been found past those siblings.
 
-Greg Skipper is the son of Ira and Montrose. He died on 1 April 2018, aged 59. [His 2018 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/gregory-skipper-obituary?id=42229410) calls him son of Albert and Ira. His mother is Ira, his father is Montrose, and Albert was Ira's husband. His wife was Sharron, daughter of Brian and Molly Jones. Their children are Neha Skipper-Jones and Nga Karu O Te Rangi Skipper-Jones. The 2018 notice writes them as Neha and Karu. Neha Skipper-Jones is named for the ancestor Neha. On 12 November 2026 the whānau recorded Albert as a father to Gregory through his mother Ira, and as a grandfather to Neha Skipper-Jones and Nga Karu O Te Rangi Skipper-Jones through their grandmother Ira.
+Greg Skipper is the son of Ira Skipper and Montrose. He died on 1 April 2018, aged 59. [His 2018 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/gregory-skipper-obituary?id=42229410) calls him son of Albert and Ira Skipper. His mother is Ira Skipper, his father is Montrose, and Albert was Ira Skipper's husband. His wife was Sharron, daughter of Brian and Molly Jones. Their children are Neha Skipper-Jones and Nga Karu O Te Rangi Skipper-Jones. The 2018 notice writes them as Neha and Karu. Neha Skipper-Jones is named for the ancestor Neha. On 12 November 2026 the whānau recorded Albert as a father to Gregory through his mother Ira Skipper, and as a grandfather to Neha Skipper-Jones and Nga Karu O Te Rangi Skipper-Jones through their grandmother Ira Skipper.
 
 Albert's father and mother are still unknown. Until those names are known, Albert cannot be tied to a particular child of Neha and Ngārere. "Uncle" in [Rangi's post](http://skipperwhanaure-union.blogspot.com/2010/03/e-te-iti-e-te-rahi-e-nga-puia-raukura-o.html) places Albert inside the whānau Rangi was writing to. It does not say which generation, or which sibling line.
 
@@ -132,7 +132,7 @@ Kept here so it is not repeated:
 ## Open questions
 
 1. Who were Albert Skipper's parents, and which child of Neha and Ngārere does that name connect to?
-2. Who were Ira's parents, and what was her surname? [Her notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) prints her as Ira Skipper and names siblings only.
+2. Who were Ira Skipper's parents? [Her notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) prints her as Ira Skipper and names siblings only.
 3. Which hapū did Neha affiliate to, Ngāti Te Whiti or Ngāti Tawhirikura, or both?
 4. Who were the other children among the 11, and where does Perere Neha Kipa sit?
 5. Are "Fred and Mereana" the same couple as Perere Neha Kipa and Mereana Keenan?

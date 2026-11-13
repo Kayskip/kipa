@@ -1,6 +1,6 @@
 # Greg Skipper
 
-Gregory John. Also Skip, and Nga Karu O Te Rangi. He named his son Nga Karu O Te Rangi. Son of Ira and Montrose.
+Gregory John. Also Skip, and Nga Karu O Te Rangi. He named his son Nga Karu O Te Rangi. Son of Ira Skipper and Montrose.
 
 ## Record
 
@@ -8,11 +8,11 @@ Died at Taranaki Base Hospital on 1 April 2018, aged 59. A private service had a
 
 Husband of Sharron. Father of Neha Skipper-Jones and Nga Karu O Te Rangi Skipper-Jones. Son-in-law of Brian Jones and Molly Jones.
 
-[The notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/gregory-skipper-obituary?id=42229410) calls him son of Albert and Ira. His mother is Ira. His father is Montrose. Albert was Ira's husband.
+[The notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/gregory-skipper-obituary?id=42229410) calls him son of Albert and Ira Skipper. His mother is Ira Skipper. His father is Montrose. Albert was Ira Skipper's husband.
 
 ## Relationships
 
-- Mother: [Ira](ira-skipper.md)
+- Mother: [Ira Skipper](ira-skipper.md)
 - Father: [Montrose](montrose.md)
 - Wife: [Sharron Skipper](sharron-skipper.md)
 - Children: [Neha Skipper-Jones](neha-skipper.md), [Nga Karu O Te Rangi Skipper-Jones](karu-skipper.md)

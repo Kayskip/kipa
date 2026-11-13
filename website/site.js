@@ -80,7 +80,11 @@ function filterPeople() {
     }
   });
   if (peopleEmpty) {
-    peopleEmpty.hidden = shown !== 0;
+    if (query === "") {
+      peopleEmpty.hidden = true;
+    } else {
+      peopleEmpty.hidden = shown !== 0;
+    }
   }
 }
 

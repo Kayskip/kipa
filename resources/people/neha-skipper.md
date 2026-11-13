@@ -10,7 +10,7 @@ Named as a child of Gregory John Skipper in the [2018 death notice](https://deat
 
 - Parents: [Greg Skipper](greg-skipper.md) and [Sharron Skipper](sharron-skipper.md)
 - Sibling: [Nga Karu O Te Rangi Skipper-Jones](karu-skipper.md)
-- Grandmother: [Ira](ira-skipper.md)
+- Grandmother: [Ira Skipper](ira-skipper.md)
 - Namesake: [Neha Kipa](neha-kipa.md)
 
 ## Sources

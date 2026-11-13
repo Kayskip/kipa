@@ -1,14 +1,14 @@
 # Una
 
-Sister of Ira. No surname is recorded. She has since passed away.
+Sister of Ira Skipper. No surname is recorded. She has since passed away.
 
 ## Record
 
-[Ira's 2020 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) names her as a sister. She passed away after that notice. No passing date is recorded.
+[Ira Skipper's 2020 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) names her as a sister. She passed away after that notice. No passing date is recorded.
 
 ## Relationships
 
-- Sibling: [Ira](ira-skipper.md), [Tui](tui.md), [Jack](jack.md), [Ted](ted.md)
+- Sibling: [Ira Skipper](ira-skipper.md), [Tui](tui.md), [Jack](jack.md), [Ted](ted.md)
 
 ## Not established
 

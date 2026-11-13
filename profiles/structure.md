@@ -39,7 +39,7 @@ Website profiles are split into two folders. [Active](active) profiles are the p
 
 Active profiles:
 
-- [Ira](active/ira.md)
+- [Ira Skipper](active/ira-skipper.md)
 - [Albert Skipper](active/albert-skipper.md)
 - [Gregory John Skipper](active/greg-skipper.md)
 - [Sharron Skipper](active/sharron-skipper.md)

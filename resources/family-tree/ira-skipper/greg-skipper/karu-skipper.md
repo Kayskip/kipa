@@ -6,4 +6,4 @@ Full record: [Nga Karu O Te Rangi Skipper-Jones](../../../people/karu-skipper.md
 
 - Parents: [Greg Skipper](README.md), [Sharron Skipper](sharron-skipper/README.md)
 - Sibling: [Neha Skipper-Jones](neha-skipper.md)
-- Grandmother: [Ira](../README.md)
+- Grandmother: [Ira Skipper](../README.md)

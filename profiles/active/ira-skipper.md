@@ -1,6 +1,6 @@
-# Ira
+# Ira Skipper
 
-**Full name:** Ira
+**Full name:** Ira Skipper
 
 **Date of birth:** <insert>
 
@@ -12,7 +12,7 @@
 
 ## Bio
 
-Ira was also known as Paddy.
+Ira Skipper was also known as Paddy.
 
 <insert>
 

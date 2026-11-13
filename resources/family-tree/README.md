@@ -39,7 +39,7 @@ flowchart TB
 
 - [Albert Skipper](albert-skipper/README.md)
   - [Ascendants](albert-skipper/ascendants.md)
-  - [Ira](ira-skipper/README.md), his wife
+  - [Ira Skipper](ira-skipper/README.md), his wife
     - [Her ascendants and siblings](ira-skipper/ascendants.md)
     - [Marie Skipper](ira-skipper/marie-skipper.md)
     - [Ray Skipper](ira-skipper/ray-skipper/README.md)

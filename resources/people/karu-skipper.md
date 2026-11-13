@@ -10,7 +10,7 @@ Named with his brother as a child of Gregory John Skipper in the [2018 death not
 
 - Parents: [Greg Skipper](greg-skipper.md) and [Sharron Skipper](sharron-skipper.md)
 - Sibling: [Neha Skipper-Jones](neha-skipper.md)
-- Grandmother: [Ira](ira-skipper.md)
+- Grandmother: [Ira Skipper](ira-skipper.md)
 
 ## Sources
 

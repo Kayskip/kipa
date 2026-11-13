@@ -2,10 +2,10 @@
 
 One file per person we currently have a record for. Lines are indexed in [whakapapa](../whakapapa/README.md). The synthesis stays in [whakapapa.md](../../whakapapa.md).
 
-## Albert and Ira
+## Albert and Ira Skipper
 
 - [Albert Skipper](albert-skipper.md)
-- [Ira](ira-skipper.md)
+- [Ira Skipper](ira-skipper.md)
 - [Tui](tui.md)
 - [Jack](jack.md)
 - [Una](una.md)

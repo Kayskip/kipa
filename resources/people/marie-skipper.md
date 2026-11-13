@@ -1,14 +1,14 @@
 # Marie Skipper
 
-Daughter of Ira. Surname taken from [Ira's notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700). No other surname is given.
+Daughter of Ira Skipper. Surname taken from [Ira Skipper's notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700). No other surname is given.
 
 ## Record
 
-[Ira's 2020 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) names her among the children: "mother and mother-in-law of Marie, Ray (dec) and Jan, and Greg (dec) and Sharron." She is the one name not paired with a partner.
+[Ira Skipper's 2020 notice](https://deaths.taranakidailynews.co.nz/nz/obituaries/taranaki-daily-news-nz/name/ira-skipper-obituary?id=39917700) names her among the children: "mother and mother-in-law of Marie, Ray (dec) and Jan, and Greg (dec) and Sharron." She is the one name not paired with a partner.
 
 ## Relationships
 
-- Mother: [Ira](ira-skipper.md)
+- Mother: [Ira Skipper](ira-skipper.md)
 - Siblings: [Ray Skipper](ray-skipper.md), [Greg Skipper](greg-skipper.md)
 
 ## Not established
